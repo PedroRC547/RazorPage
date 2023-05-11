@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "bCnA2f6Mof8eTwng6r9gsQ1fayHATPYGdi2OxQ9hZ34=",
+  "Source": "RazorPage",
+  "BasePath": "_content/RazorPage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RazorPage\\wwwroot",
+      "Source": "RazorPage",
+      "ContentRoot": "C:\\Users\\pedro.candiani\\Documents\\CSharp\\RazorPage\\RazorPage\\wwwroot\\",
+      "BasePath": "_content/RazorPage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\pedro.candiani\\Documents\\CSharp\\RazorPage\\RazorPage\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RazorPage.styles.css",
+      "SourceId": "RazorPage",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pedro.candiani\\Documents\\CSharp\\RazorPage\\RazorPage\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/RazorPage",
+      "RelativePath": "RazorPage.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\pedro.candiani\\Documents\\CSharp\\RazorPage\\RazorPage\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RazorPage.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\pedro.candiani\\Documents\\CSharp\\RazorPage\\RazorPage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RazorPage.bundle.scp.css",
+      "SourceId": "RazorPage",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pedro.candiani\\Documents\\CSharp\\RazorPage\\RazorPage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/RazorPage",
+      "RelativePath": "RazorPage.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\pedro.candiani\\Documents\\CSharp\\RazorPage\\RazorPage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RazorPage.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\pedro.candiani\\Documents\\CSharp\\RazorPage\\RazorPage\\wwwroot\\css\\site.css",
+      "SourceId": "RazorPage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pedro.candiani\\Documents\\CSharp\\RazorPage\\RazorPage\\wwwroot\\",
+      "BasePath": "_content/RazorPage",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\pedro.candiani\\Documents\\CSharp\\RazorPage\\RazorPage\\wwwroot\\js\\site.js",
+      "SourceId": "RazorPage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pedro.candiani\\Documents\\CSharp\\RazorPage\\RazorPage\\wwwroot\\",
+      "BasePath": "_content/RazorPage",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}

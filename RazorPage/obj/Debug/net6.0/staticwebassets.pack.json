@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pedro.candiani\\Documents\\CSharp\\RazorPage\\RazorPage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RazorPage.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RazorPage.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\pedro.candiani\\Documents\\CSharp\\RazorPage\\RazorPage\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\pedro.candiani\\Documents\\CSharp\\RazorPage\\RazorPage\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RazorPage.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RazorPage.props",
+      "PackagePath": "build\\RazorPage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RazorPage.props",
+      "PackagePath": "buildMultiTargeting\\RazorPage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RazorPage.props",
+      "PackagePath": "buildTransitive\\RazorPage.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
